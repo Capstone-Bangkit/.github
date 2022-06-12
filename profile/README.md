@@ -11,7 +11,6 @@ Reviewing the activities of local residents who are farmers, they often complain
 ## Our team
 |Name  | StudentID  | Univestiry |links |
 |--|--|--|--|
-|--|--|--|--|
 | Tjikoa, Ade Fiqri | M2269J2320 |Universitas Mulawarman |[Github](https://github.com/adefiqri12)|
 | Dede Ikhsan Dwi Saputra | M2296F2520 |Universitas Pembangunan Nasional Veteran Jawa Timur |[Github](https://github.com/dedeikhsan)|
 | I Wayan Alston Argodi | A2296F2521 |Universitas Pembangunan Nasional Veteran Jawa Timur |[Github](https://github.com/Alstonargodi)|
